@@ -1,0 +1,11 @@
+1   --  lying
+2   --  sitting
+3   --  running
+4   --  walking
+5   --  pick up
+6   --  wave hand
+7   --  jump
+8   --  squat
+9   --  sit down
+10 --  stand up
+11 --  fall down
