@@ -75,10 +75,20 @@ Sample:  XXX_yy i.mat  represent the i th	yy activity sample of the volunteer XX
 **ps：处理用到的代码都在Script中，切割平躺、坐立的是OwnData_cut.m ，提取CSI并将数据切割为10秒长的是OwnData_extract.m**
 
 
+## 相关论文：
 
+[Proto-CSNet:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11036372)
 
+```latex
+@INPROCEEDINGS{Hu2024Proto,
+  author={Hu, Siyu and Liu, Jiqiang and Zhang, Chenxin and Zhu, Xiaoqiang and Li, Lingkun},
+  booktitle={2024 20th International Conference on Mobility, Sensing and Networking (MSN)}, 
+  title={Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition}, 
+  year={2024},
+  pages={48-56},
+  doi={10.1109/MSN63567.2024.00018}}
 
-
+```
 
 
 
